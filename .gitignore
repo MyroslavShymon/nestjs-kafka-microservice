@@ -1,0 +1,110 @@
+#Billing service
+# compiled output
+/billing/dist
+/billing/node_modules
+
+# Logs
+/billing/logs
+/billing/*.log
+/billing/npm-debug.log*
+/billing/pnpm-debug.log*
+/billing/yarn-debug.log*
+/billing/yarn-error.log*
+/billing/lerna-debug.log*
+
+# OS
+/billing/.DS_Store
+
+# Tests
+/billing/coverage
+/billing/.nyc_output
+
+# IDEs and editors
+/billing/.idea
+/billing/.project
+/billing/.classpath
+/billing/.c9/
+/billing/*.launch
+/billing/.settings/
+/billing/*.sublime-workspace
+
+# IDE - VSCode
+/billing/.vscode/*
+/billing/!.vscode/settings.json
+/billing/!.vscode/tasks.json
+/billing/!.vscode/launch.json
+/billing/!.vscode/extensions.json
+
+#Auth service
+# compiled output
+/auth/dist
+/auth/node_modules
+
+# Logs
+/auth/logs
+/auth/*.log
+/auth/npm-debug.log*
+/auth/pnpm-debug.log*
+/auth/yarn-debug.log*
+/auth/yarn-error.log*
+/auth/lerna-debug.log*
+
+# OS
+/auth/.DS_Store
+
+# Tests
+/auth/coverage
+/auth/.nyc_output
+
+# IDEs and editors
+/auth/.idea
+/auth/.project
+/auth/.classpath
+/auth/.c9/
+/auth/*.launch
+/auth/.settings/
+/auth/*.sublime-workspace
+
+# IDE - VSCode
+/auth/.vscode/*
+/auth/!.vscode/settings.json
+/auth/!.vscode/tasks.json
+/auth/!.vscode/launch.json
+/auth/!.vscode/extensions.json
+
+#Api-gateway service
+# compiled output
+/api-gateway/dist
+/api-gateway/node_modules
+
+# Logs
+/api-gateway/logs
+/api-gateway/*.log
+/api-gateway/npm-debug.log*
+/api-gateway/pnpm-debug.log*
+/api-gateway/yarn-debug.log*
+/api-gateway/yarn-error.log*
+/api-gateway/lerna-debug.log*
+
+# OS
+/api-gateway/.DS_Store
+
+# Tests
+/api-gateway/coverage
+/api-gateway/.nyc_output
+
+# IDEs and editors
+/api-gateway/.idea
+/api-gateway/.project
+/api-gateway/.classpath
+/api-gateway/.c9/
+/api-gateway/*.launch
+/api-gateway/.settings/
+/api-gateway/*.sublime-workspace
+
+# IDE - VSCode
+/api-gateway/.vscode/*
+/api-gateway/!.vscode/settings.json
+/api-gateway/!.vscode/tasks.json
+/api-gateway/!.vscode/launch.json
+/api-gateway/!.vscode/extensions.json
